@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-snsapp-dev-190354-authRole",
+      "UnauthRoleArn": "arn:aws:iam::306195494810:role/amplify-snsapp-dev-190354-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::306195494810:role/amplify-snsapp-dev-190354-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-snsapp-dev-190354-deployment",
+      "UnauthRoleName": "amplify-snsapp-dev-190354-unauthRole",
+      "StackName": "amplify-snsapp-dev-190354",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:306195494810:stack/amplify-snsapp-dev-190354/2ed8db10-c9ff-11ec-9b08-0e77265486a3",
+      "AmplifyAppId": "d350mppipcrf9q"
+    },
+    "categories": {
+      "auth": {
+        "snsappcef7b2fa": {}
+      }
+    }
+  }
+}

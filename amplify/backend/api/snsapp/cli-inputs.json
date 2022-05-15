@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "snsapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/christian/personal_project/flutter/sns_app/amplify/backend/api/snsapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-05-15T06:27:27.575Z",
+      "keyDescription": ""
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
